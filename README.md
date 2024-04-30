@@ -1,1 +1,1 @@
-Página simple de login do curso em vídeo
+Página simples de login do curso em vídeo
